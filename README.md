@@ -10,7 +10,7 @@ To integrate DownloaderPro into your Android Studio project, you can add the lib
 
 ```bash
 dependencies {
-	        implementation 'com.github.mrproba:downloaderpro:1.0.1'
-}
+	        implementation 'com.github.mrproba:download-pro:1.0.0'
+	}
 ```
 
