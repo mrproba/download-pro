@@ -6,12 +6,13 @@ android {
     compileSdk 33
     buildToolsVersion "33.0.3"
     namespace 'com.downloaderpro.mrpro'
+    group='com.github.mrproba'
 
     defaultConfig {
         minSdk 21
         targetSdk 33
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.0"
     }
 
     buildTypes {
