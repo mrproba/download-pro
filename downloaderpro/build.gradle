@@ -6,7 +6,6 @@ android {
     compileSdk 33
     buildToolsVersion "33.0.3"
     namespace 'com.downloaderpro.mrpro'
-    group='com.github.mrproba'
 
     defaultConfig {
         minSdk 21
@@ -25,6 +24,8 @@ android {
 }
 
 dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
     implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation "androidx.room:room-runtime:2.5.1"
     annotationProcessor "androidx.room:room-compiler:2.5.1"
