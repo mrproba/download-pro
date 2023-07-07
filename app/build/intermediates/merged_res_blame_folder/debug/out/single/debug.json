@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable_download_24px.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable/download_24px.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable-v24_cancel_24px.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable-v24/cancel_24px.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable_pause_24px.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable/pause_24px.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/layout_activity_multi.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/layout/activity_multi.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable-v24_pause_24px.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable-v24/pause_24px.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable_cancel_24px.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable/cancel_24px.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/layout_fragment_downloadeds.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/layout/fragment_downloadeds.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable-v24_refresh_24px.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable-v24/refresh_24px.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable-v24_download_24px.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable-v24/download_24px.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable-v24_folder.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable-v24/folder.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.downloaderpro.mrpro.demo.app-merged_res-33:/layout_item_video.xml.flat",
+        "source": "com.downloaderpro.mrpro.demo.app-main-35:/layout/item_video.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable-v24_file_download_done_24px.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable-v24/file_download_done_24px.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable_play_arrow_24px.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable/play_arrow_24px.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable_downloaded_video_image_shape.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable/downloaded_video_image_shape.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/layout_fragment_downloadings.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/layout/fragment_downloadings.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/layout_item_downloading.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/layout/item_downloading.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable_refresh_24px.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable/refresh_24px.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-pngs-29:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable_file_download_done_24px.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable/file_download_done_24px.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable_folder.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable/folder.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/layout_item_video.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/layout/item_video.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable-v24_play_arrow_24px.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable-v24/play_arrow_24px.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-main-35:/drawable/ic_launcher_background.xml"
+    }
+]

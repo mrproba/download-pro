@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/DownloaderPro/app/src/main/java/com/downloaderpro/mrpro/demo/MultiActivity.java",
+      "selection": {
+        "end": {
+          "column": 8,
+          "index": -1,
+          "line": 44
+        },
+        "start": {
+          "column": 8,
+          "index": -1,
+          "line": 44
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/DownloaderPro/app/src/main/res/layout/item_video.xml",
+      "selection": {
+        "end": {
+          "column": 40,
+          "index": -1,
+          "line": 95
+        },
+        "start": {
+          "column": 40,
+          "index": -1,
+          "line": 95
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/DownloaderPro/app/src/main/res/layout/item_video.xml"
+}

@@ -1,0 +1,21 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()
+        maven{ url("https://repo.gradle.org/gradle/libs-releases/") }
+        maven { url "https://jitpack.io" }
+    }
+}
+
+rootProject.name = "Downloader Pro"
+include ':app'
+include ':downloaderpro'

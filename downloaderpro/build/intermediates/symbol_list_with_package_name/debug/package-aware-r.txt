@@ -1,0 +1,2 @@
+com.downloaderpro.mrpro
+string app_name

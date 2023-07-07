@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MultiActivity">
+
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:id="@+id/tabs_main_layout"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <com.google.android.material.tabs.TabLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:tabBackground="@android:color/background_dark"
+            app:tabTextAppearance="@style/TabLayoutTextAppearance"
+            android:id="@+id/downloads_tab_layout" />
+
+        <androidx.viewpager.widget.ViewPager
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/downloads_view_pager" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/request_permission_button"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="Generate Storage Permission"
+        android:visibility="gone" />
+
+</LinearLayout>

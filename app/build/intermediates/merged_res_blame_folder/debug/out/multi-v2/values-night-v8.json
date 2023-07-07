@@ -1,0 +1,112 @@
+{
+    "logs": [
+        {
+            "outputFile": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.1.1/com.downloaderpro.mrpro.demo.app-mergeDebugResources-31:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/d51d15d10b87ae0681887895458d08a3/transformed/material-1.6.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,47,48,49,50,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1334,1409,1520,1609,1710,1817,1924,2023,2126,2214,2338,2440,2542,2658,2760,2874,3002,3118,3240,3376,3496,3630,3750,3862,4077,4194,4318,4448,4570,4708,4842,4958",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1404,1515,1604,1705,1812,1919,2018,2121,2209,2333,2435,2537,2653,2755,2869,2997,3113,3235,3371,3491,3625,3745,3857,3983,4189,4313,4443,4565,4703,4837,4953,5073"
+                    }
+                },
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/e1348b34c4a494e9b45a13b5129bc53b/transformed/appcompat-1.6.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,46",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,170,254,338,434,536,638,3988",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "165,249,333,429,531,633,727,4072"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/DownloaderPro/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "820"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "732",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1329"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.downloaderpro.mrpro.demo.app-mergeDebugResources-31:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/d51d15d10b87ae0681887895458d08a3/transformed/material-1.6.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,51,52,53,54,55,56,57,58",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1525,1600,1711,1800,1901,2008,2115,2214,2317,2405,2529,2631,2733,2849,2951,3065,3193,3309,3431,3567,3687,3821,3941,4053,4268,4385,4509,4639,4761,4899,5033,5149",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1595,1706,1795,1896,2003,2110,2209,2312,2400,2524,2626,2728,2844,2946,3060,3188,3304,3426,3562,3682,3816,3936,4048,4174,4380,4504,4634,4756,4894,5028,5144,5264"
+                    }
+                },
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/e1348b34c4a494e9b45a13b5129bc53b/transformed/appcompat-1.6.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,50",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "291,361,445,529,625,727,829,4179",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "356,440,524,620,722,824,918,4263"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/DownloaderPro/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "15,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "825,100",
+                        "endLines": "20,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "1035,820"
+                    },
+                    "to": {
+                        "startLines": "2,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,923",
+                        "endLines": "5,25",
+                        "endColumns": "12,12",
+                        "endOffsets": "286,1520"
+                    }
+                }
+            ]
+        }
+    ]
+}
